@@ -1,0 +1,170 @@
+* {
+   font-family: "Roboto", sans-serif; 
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+}
+
+/* Heading */
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 50px 100px;
+}
+
+.nav-bar {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+.brand-name {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+
+}
+
+li a {
+    color: #E5E7EB;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.heading {
+    display: flex;
+    margin-top: 50px;
+}
+
+.heading-content {
+    padding: 0 100px 50px;
+    max-width: 600px;
+}
+
+.heading-text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.heading-subtext {
+    color:#E5E7EB;
+    font-size: 18px;
+}
+
+.heading img {
+    width: 450px;
+    height: 330px;
+}
+
+.button1 {
+    background-color: #3882F6;
+    border: none;
+    border-radius: 10%;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 7px 20px;
+    text-decoration: none;
+}
+
+/* Featured Games */
+
+.featured {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.feature-heading {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.card-img {
+    height: 200px;
+    width: 200px;
+}
+
+/* Quote */
+
+.quote {
+    align-items: center;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 75px 200px;
+    
+}
+
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.quote-name {
+    align-self: flex-end;
+    color: #1F2937;
+    font-size: 18px;
+}
+
+/* cta */
+
+.cta {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.cta-container {
+    align-items: center;
+    background-color: #3882F6;
+    display: flex;
+    padding: 25px 200px;
+    justify-content: space-between;
+}
+
+.cta-text {
+    color: #E5E7EB;
+    margin: 0;
+    padding: 0;
+}
+
+.cta-container h3{
+    font-size: 24px;
+}
+
+.cta-container p {
+    font-size: 18px;
+}
+
+.button2 {
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    border-radius: 10%;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 7px 20px;
+    text-decoration: none;
+}
