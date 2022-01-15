@@ -1,6 +1,8 @@
 This repo contains all the files needed for the example landing page described in The Odin Project's "Foundations" curriculum.
 
 
+Special thanks to the owners of this photos:
+
 Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/boardgames?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
@@ -14,4 +16,3 @@ Photo by <a href="https://unsplash.com/@mirapolis?utm_source=unsplash&utm_medium
   
 
 Photo by <a href="https://unsplash.com/@randyfath?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Randy Fath</a> on <a href="https://unsplash.com/s/photos/chess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
