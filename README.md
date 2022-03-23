@@ -1,4 +1,7 @@
-This repo contains all the files needed for the example landing page described in The Odin Project's "Foundations" curriculum.
+Example landing page described in The Odin Project's "Foundations" curriculum.
+
+Live Preview
+https://remonjames.github.io/landing-page/
 
 
 Special thanks to the owners of this photos:
